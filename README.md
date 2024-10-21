@@ -29,11 +29,17 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - Wrapper
     - [DisGo](https://github.com/disgoorg/disgo) ![GitHub Repo stars](https://img.shields.io/github/stars/disgoorg/disgo) ![GitHub last commit](https://img.shields.io/github/last-commit/disgoorg/disgo)
 
-### [Github](https://github.com/) - Email Service Provider
+### [Github](https://github.com/) - Git respository hosting service
 
 - [API documentation](https://docs.github.com/en/rest)
 - Wrapper
     - [Go-Oktokit](https://github.com/octokit/go-octokit) ![GitHub Repo stars](https://img.shields.io/github/stars/octokit/go-octokit) ![GitHub last commit](https://img.shields.io/github/last-commit/octokit/go-octokit)
+
+### [Gitlab](https://github.com/) - online and self hosted Git respository management
+
+- [API documentation](https://docs.gitlab.com/ee/api/rest/)
+- Wrapper
+    - [go-gitlab](https://github.com/xanzy/go-gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/xanzy/go-gitlab) ![GitHub last commit](https://img.shields.io/github/last-commit/xanzy/go-gitlab)
 
 ### [Mailjet](https://www.mailjet.com/) - Email Service Provider
 
@@ -84,6 +90,12 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - Wrapper
     - [gotgbot](https://github.com/PaulSonOfLars/gotgbot) ![GitHub Repo stars](https://img.shields.io/github/stars/PaulSonOfLars/gotgbot) ![GitHub last commit](https://img.shields.io/github/last-commit/PaulSonOfLars/gotgbot)
     - [go-Tgbot](https://github.com/olebedev/go-tgbot) ![GitHub Repo stars](https://img.shields.io/github/stars/olebedev/go-tgbot) ![GitHub last commit](https://img.shields.io/github/last-commit/olebedev/go-tgbot)
+
+### [Telegraph](https://telegram.org/) - Messager
+
+- [API documentation](https://core.telegram.org/)
+- Wrapper
+    - [telegraph](https://github.com/toby3d/telegraph) ![GitHub Repo stars](https://img.shields.io/github/stars/toby3d/telegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/toby3d/telegraph)
 
 ### [Tinder](https://tinder.com/) - Dating App
 
