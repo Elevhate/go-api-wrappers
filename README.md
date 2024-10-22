@@ -11,11 +11,17 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 
 ---
 
-### [Binance](https://www.binance.com//) - Crypto Trading
+### [Binance](https://www.binance.com) - Crypto Trading
 
 - [API documentation](https://binance-docs.github.io/apidocs/spot/en/#introduction)
 - Wrapper
     - [Go-Binance](https://github.com/pdepip/go-binance) ![GitHub Repo stars](https://img.shields.io/github/stars/pdepip/go-binance) ![GitHub last commit](https://img.shields.io/github/last-commit/pdepip/go-binance)
+
+### [Bitbucket - Atlassian](https://bitbucket.org/) - Git respository hosting service & CI/CD
+
+- [API documentation](https://developer.atlassian.com/cloud/bitbucket/rest/)
+- Wrapper
+    - [go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ![GitHub Repo stars](https://img.shields.io/github/stars/ktrysmt/go-bitbucket) ![GitHub last commit](https://img.shields.io/github/last-commit/ktrysmt/go-bitbucket)
 
 ### [Coinbase](https://www.coinbase.com/) - Crypto Trading
 
@@ -28,6 +34,19 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - [API documentation](https://discord.com/developers/docs/intro)
 - Wrapper
     - [DisGo](https://github.com/disgoorg/disgo) ![GitHub Repo stars](https://img.shields.io/github/stars/disgoorg/disgo) ![GitHub last commit](https://img.shields.io/github/last-commit/disgoorg/disgo)
+
+### [Fitbit](https://www.fitbit.com) - Activity & Health Tracking Network
+
+- [API documentation](https://dev.fitbit.com/build/reference/)
+- Wrapper
+    - [go-fitbit](https://github.com/Thomas2500/go-fitbit) ![GitHub Repo stars](https://img.shields.io/github/stars/Thomas2500/go-fitbit) ![GitHub last commit](https://img.shields.io/github/last-commit/Thomas2500/go-fitbit)
+    - [fitbit](https://github.com/galeone/fitbit) ![GitHub Repo stars](https://img.shields.io/github/stars/galeone/fitbit) ![GitHub last commit](https://img.shields.io/github/last-commit/galeone/fitbit)
+
+### [Garmin](https://connect.garmin.com/) - Activity & Health Tracking Network
+
+- [API documentation](https://developer.garmin.com/gc-developer-program/overview/)
+- Wrapper
+    - [garmin-connect](https://github.com/abrander/garmin-connect) ![GitHub Repo stars](https://img.shields.io/github/stars/abrander/garmin-connect) ![GitHub last commit](https://img.shields.io/github/last-commit/abrander/garmin-connect)
 
 ### [Github](https://github.com/) - Git respository hosting service
 
@@ -47,12 +66,17 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - Wrapper
     - [imdb](https://github.com/StalkR/imdb) ![GitHub Repo stars](https://img.shields.io/github/stars/StalkR/imdb) ![GitHub last commit](https://img.shields.io/github/last-commit/StalkR/imdb)
 
+### [Jira - Atlassian](https://www.atlassian.com/software/jira) - Project Management Tool
+
+- [API documentation](https://developer.atlassian.com/cloud/jira/platform/rest/v3)
+- Wrapper
+    - [go-jira](https://github.com/andygrunwald/go-jira) ![GitHub Repo stars](https://img.shields.io/github/stars/andygrunwald/go-jira) ![GitHub last commit](https://img.shields.io/github/last-commit/andygrunwald/go-jira)
+
 ### [Linkedin](https://www.linkedin.com/) - Professional Network
 
 - [API documentation](https://developer.linkedin.com/docs/guide/v2)
 - Wrapper
     - [linkedin-api](https://github.com/johnaoss/linkedin-api) ![GitHub Repo stars](https://img.shields.io/github/stars/johnaoss/linkedin-api) ![GitHub last commit](https://img.shields.io/github/last-commit/johnaoss/linkedin-api)
-
 
 ### [Mailjet](https://www.mailjet.com/) - Email Service Provider
 
@@ -71,6 +95,13 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - [API documentation](https://docs.mux.com/api-reference)
 - Wrapper
     - [Mux-Go](https://github.com/muxinc/mux-go) ![GitHub Repo stars](https://img.shields.io/github/stars/muxinc/mux-go) ![GitHub last commit](https://img.shields.io/github/last-commit/muxinc/mux-go)
+
+### [Notion](https://www.notion.so/) - Productivity Tool
+
+- [API documentation](https://developers.notion.com/)
+- Wrapper
+    - [notionapi](https://github.com/jomei/notionapi) ![GitHub Repo stars](https://img.shields.io/github/stars/jomei/notionapi) ![GitHub last commit](https://img.shields.io/github/last-commit/jomei/notionapi)
+    - [go-notion](https://github.com/sorcererxw/go-notion) ![GitHub Repo stars](https://img.shields.io/github/stars/sorcererxw/go-notion) ![GitHub last commit](https://img.shields.io/github/last-commit/sorcererxw/go-notion)
 
 ### [OVH Cloud](https://www.ovhcloud.com/en/) - Cloud Service Provider
 
@@ -128,8 +159,17 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - Wrapper
     - [golang-tmdb](https://github.com/cyruzin/golang-tmdb) ![GitHub Repo stars](https://img.shields.io/github/stars/cyruzin/golang-tmdb) ![GitHub last commit](https://img.shields.io/github/last-commit/cyruzin/golang-tmdb)
 
-### [Trello](https://trello.com/) - Project Management Tool
+### [Trello - Atlassian](https://trello.com/) - Project Management Tool
 
 - [API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)
 - Wrapper
     - [Trello](https://github.com/adlio/trello) ![GitHub Repo stars](https://img.shields.io/github/stars/adlio/trello) ![GitHub last commit](https://img.shields.io/github/last-commit/adlio/trello)
+
+### [Twitter / X](https://twitter.com/) - Social Network
+
+- [API documentation](https://developer.x.com/en/docs/x-api/early-access)
+- Wrapper
+    - [go-twitter (dghubble)](https://github.com/dghubble/go-twitter) ![GitHub Repo stars](https://img.shields.io/github/stars/dghubble/go-twitter) ![GitHub last commit](https://img.shields.io/github/last-commit/dghubble/go-twitter)
+    - [go-twitter (g8rswimmer)](https://github.com/g8rswimmer/go-twitter) ![GitHub Repo stars](https://img.shields.io/github/stars/g8rswimmer/go-twitter) ![GitHub last commit](https://img.shields.io/github/last-commit/g8rswimmer/go-twitter)
+    - [go-twitter (sns-sdks)](https://github.com/sns-sdks/go-twitter) ![GitHub Repo stars](https://img.shields.io/github/stars/sns-sdks/go-twitter) ![GitHub last commit](https://img.shields.io/github/last-commit/sns-sdks/go-twitter)
+    - [twittergo](https://github.com/kurrik/twittergo) ![GitHub Repo stars](https://img.shields.io/github/stars/kurrik/twittergo) ![GitHub last commit](https://img.shields.io/github/last-commit/kurrik/twittergo)
