@@ -41,6 +41,19 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - Wrapper
     - [go-gitlab](https://github.com/xanzy/go-gitlab) ![GitHub Repo stars](https://img.shields.io/github/stars/xanzy/go-gitlab) ![GitHub last commit](https://img.shields.io/github/last-commit/xanzy/go-gitlab)
 
+### [IMDb](https://www.imdb.com/) - Movie Database
+
+- [API documentation](https://developer.imdb.com/documentation)
+- Wrapper
+    - [imdb](https://github.com/StalkR/imdb) ![GitHub Repo stars](https://img.shields.io/github/stars/StalkR/imdb) ![GitHub last commit](https://img.shields.io/github/last-commit/StalkR/imdb)
+
+### [Linkedin](https://www.linkedin.com/) - Professional Network
+
+- [API documentation](https://developer.linkedin.com/docs/guide/v2)
+- Wrapper
+    - [linkedin-api](https://github.com/johnaoss/linkedin-api) ![GitHub Repo stars](https://img.shields.io/github/stars/johnaoss/linkedin-api) ![GitHub last commit](https://img.shields.io/github/last-commit/johnaoss/linkedin-api)
+
+
 ### [Mailjet](https://www.mailjet.com/) - Email Service Provider
 
 - [API documentation](https://dev.mailjet.com/email/guides/?go)
@@ -83,6 +96,12 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - [Web-API documentation](https://developer.spotify.com/documentation/web-api)
 - Wrapper
     - [Spotify](https://github.com/zmb3/spotify) ![GitHub Repo stars](https://img.shields.io/github/stars/zmb3/spotify) ![GitHub last commit](https://img.shields.io/github/last-commit/zmb3/spotify)
+
+### [Strava](https://www.strava.com/) - Activity Tracking Network
+
+- [Web-API documentation](https://developers.strava.com/docs/reference/)
+- Wrapper
+    - [go.strava](https://github.com/strava/go.strava) ![GitHub Repo stars](https://img.shields.io/github/strava/go.strava) ![GitHub last commit](https://img.shields.io/github/last-commit/strava/go.strava)
 
 ### [Telegram](https://telegram.org/) - Messager
 
