@@ -23,6 +23,12 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - Wrapper
     - [go-bitbucket](https://github.com/ktrysmt/go-bitbucket) ![GitHub Repo stars](https://img.shields.io/github/stars/ktrysmt/go-bitbucket) ![GitHub last commit](https://img.shields.io/github/last-commit/ktrysmt/go-bitbucket)
 
+### [Bitfinex](https://www.bitfinex.com/) - Crypto Trading
+
+- [API documentation](https://docs.bitfinex.com/docs/introduction)
+- Wrapper
+    - [bitfinex-api-go](https://github.com/bitfinexcom/bitfinex-api-go) ![GitHub Repo stars](https://img.shields.io/github/stars/bitfinexcom/bitfinex-api-go) ![GitHub last commit](https://img.shields.io/github/last-commit/bitfinexcom/bitfinex-api-go)
+
 ### [Coinbase](https://www.coinbase.com/) - Crypto Trading
 
 - [API documentation](https://docs.cloud.coinbase.com/)
@@ -109,18 +115,37 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - Wrapper
     - [Go-OVH](https://github.com/ovh/go-ovh) ![GitHub Repo stars](https://img.shields.io/github/stars/ovh/go-ovh) ![GitHub last commit](https://img.shields.io/github/last-commit/ovh/go-ovh)
 
+### [Paypal](https://paypal.com) - Online Payment Service
+
+- [API documentation](https://developer.paypal.com/api/rest/)
+- Wrapper
+    - [paypal](https://github.com/plutov/paypal) ![GitHub Repo stars](https://img.shields.io/github/stars/plutov/paypal) ![GitHub last commit](https://img.shields.io/github/last-commit/plutov/paypal)
+
+### [Pokeapi](https://pokeapi.co/) - Pokémon Database
+
+- [API documentation](https://pokeapi.co/docs/v2)
+- Wrapper
+    - [pokeapi-go](https://github.com/mtslzr/pokeapi-go) ![GitHub Repo stars](https://img.shields.io/github/stars/mtslzr/pokeapi-go) ![GitHub last commit](https://img.shields.io/github/last-commit/mtslzr/pokeapi-go)
+
 ### [Pushover](https://pushover.net/) - Push Notifications
 
 - [API documentation](https://pushover.net/api)
 - Wrapper
     - [Pushover](https://github.com/gregdel/pushover) ![GitHub Repo stars](https://img.shields.io/github/stars/gregdel/pushover) ![GitHub last commit](https://img.shields.io/github/last-commit/gregdel/pushover)
 
-### [Reddit](https://www.reddit.com/) - Music Streaming Service
+### [Reddit](https://www.reddit.com/) - Social Network
 
 - [API documentation](http://www.reddit.com/dev/api)
 - Wrapper
     - [Graw](https://github.com/turnage/graw) ![GitHub Repo stars](https://img.shields.io/github/stars/turnage/graw) ![GitHub last commit](https://img.shields.io/github/last-commit/turnage/graw)
     - [Geddit](https://github.com/jzelinskie/geddit) ![GitHub Repo stars](https://img.shields.io/github/stars/jzelinskie/geddit) ![GitHub last commit](https://img.shields.io/github/last-commit/jzelinskie/geddit)
+
+### [Soundcloud](https://soundcloud.com/) - Music Streaming Service
+
+- [API documentation](https://developers.soundcloud.com/docs/api/guide)
+- Wrapper
+    - [golang-soundcloud](https://github.com/yanatan16/golang-soundcloud) ![GitHub Repo stars](https://img.shields.io/github/stars/yanatan16/golang-soundcloud) ![GitHub last commit](https://img.shields.io/github/last-commit/yanatan16/golang-soundcloud)
+    - [soundcloud-api](https://github.com/zackradisic/soundcloud-api) ![GitHub Repo stars](https://img.shields.io/github/stars/zackradisic/soundcloud-api) ![GitHub last commit](https://img.shields.io/github/last-commit/zackradisic/soundcloud-api)
 
 ### [Spotify](https://open.spotify.com/) - Music Streaming Service
 
@@ -141,9 +166,9 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
     - [gotgbot](https://github.com/PaulSonOfLars/gotgbot) ![GitHub Repo stars](https://img.shields.io/github/stars/PaulSonOfLars/gotgbot) ![GitHub last commit](https://img.shields.io/github/last-commit/PaulSonOfLars/gotgbot)
     - [go-Tgbot](https://github.com/olebedev/go-tgbot) ![GitHub Repo stars](https://img.shields.io/github/stars/olebedev/go-tgbot) ![GitHub last commit](https://img.shields.io/github/last-commit/olebedev/go-tgbot)
 
-### [Telegraph](https://telegram.org/) - Messager
+### [Telegraph](https://telegra.ph) - Publishing Tool
 
-- [API documentation](https://core.telegram.org/)
+- [API documentation](https://telegra.ph/api)
 - Wrapper
     - [telegraph](https://github.com/toby3d/telegraph) ![GitHub Repo stars](https://img.shields.io/github/stars/toby3d/telegraph) ![GitHub last commit](https://img.shields.io/github/last-commit/toby3d/telegraph)
 
@@ -164,6 +189,13 @@ Found a broken API? Excellent! Please submit a pull request with it fixed or rem
 - [API documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/#api-group-actions)
 - Wrapper
     - [Trello](https://github.com/adlio/trello) ![GitHub Repo stars](https://img.shields.io/github/stars/adlio/trello) ![GitHub last commit](https://img.shields.io/github/last-commit/adlio/trello)
+
+### [Twitch](https://www.twitch.tv/) - Live Streaming Platform
+
+- [API documentation](https://dev.twitch.tv/docs/api/)
+- Wrapper
+    - [go-twitch](https://github.com/Adeithe/go-twitch) ![GitHub Repo stars](https://img.shields.io/github/stars/Adeithe/go-twitch) ![GitHub last commit](https://img.shields.io/github/last-commit/Adeithe/go-twitch)
+    - [go-twitch-api](https://github.com/tserkov/go-twitch-api) ![GitHub Repo stars](https://img.shields.io/github/stars/tserkov/go-twitch-api) ![GitHub last commit](https://img.shields.io/github/last-commit/tserkov/go-twitch-api)
 
 ### [Twitter / X](https://twitter.com/) - Social Network
 
