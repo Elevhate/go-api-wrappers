@@ -1,10 +1,10 @@
-name: Check Markdown Links
+name: Broken Link Check
 on: [push, pull_request]
 
 jobs:
-  markdown-link-check:
+  check:
+    name: Broken Link Check
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
-      - name: Run Markdown link check
-        uses: gaurav-nelson/github-action-markdown-link-check@v1
+      - name: Broken Link Check
+        uses: technote-space/broken-link-checker-action@v2
